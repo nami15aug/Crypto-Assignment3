@@ -1,3 +1,5 @@
+Naveen Mishra, CS21M516, naveen.innocence@gmail.com
+
 # Crypto-Assignment3
 To compare the timing difference between RSA with and without Chinese Remainder Theorem.
 
@@ -15,5 +17,5 @@ To compare the timing difference between RSA with and without Chinese Remainder 
    ..\..\..\Program Files\OpenSSL-Win64\include\
    
 # Results
-It was found that the Regular RSA implementation took execution time of 1313us whereas that with CRT took around 999us. 
+It was found that the Regular RSA implementation took execution time of 1313us whereas that with CRT took around 999us. Please see attached images for details.
 Please note that this implemenation was done for a tiny plain text and n. CRT would drastically perform well over regular RSA as plaintext size and n increases.
